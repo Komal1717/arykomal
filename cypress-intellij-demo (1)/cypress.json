@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://en.wikipedia.org",
+  "video": false,
+  "screenshotsFolder": "cypress/screenshots",
+  "videosFolder": "cypress/videos",
+  "integrationFolder": "cypress/e2e"
+}
